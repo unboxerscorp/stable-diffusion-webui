@@ -1,3 +1,11 @@
 [submodule "extensions/sd-webui-roop"]
 	path = extensions/sd-webui-roop
 	url = https://github.com/s0md3v/sd-webui-roop
+
+[submodule "extensions/Stable-Diffusion-Webui-Civitai-Helper"]
+	path = extensions/Stable-Diffusion-Webui-Civitai-Helper
+	url = https://github.com/butaixianran/Stable-Diffusion-Webui-Civitai-Helper
+
+[submodule "extensions/batch-face-swap"]
+	path = extensions/batch-face-swap
+	url = https://github.com/kex0/batch-face-swap

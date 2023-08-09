@@ -1,6 +1,6 @@
 [submodule "extensions/sd-webui-roop"]
 	path = extensions/sd-webui-roop
-	url = https://github.com/s0md3v/sd-webui-roop
+	url = git@github.com:unboxerscorp/sd-webui-roop.git
 
 [submodule "extensions/Stable-Diffusion-Webui-Civitai-Helper"]
 	path = extensions/Stable-Diffusion-Webui-Civitai-Helper

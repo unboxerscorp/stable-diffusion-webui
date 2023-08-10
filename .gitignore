@@ -37,3 +37,4 @@ notification.mp3
 /package-lock.json
 /.coverage*
 /.venv
+uvicorn.conf.py
